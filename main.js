@@ -1,5 +1,5 @@
 import Contract from 'Contract'
-import Process from './Process'
+import Process from './process'
 import User from './users'
 class TokenMain extends Contract {
   static viewFuncs = [
