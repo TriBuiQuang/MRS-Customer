@@ -1,1 +1,1 @@
-<img src="./img/MRS_Customer_Registration_FlowChart.jpg" />
+<img src="./.img/MRS_Customer_Registration_FlowChart.jpg" />
